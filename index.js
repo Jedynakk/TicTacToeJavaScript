@@ -1,0 +1,1 @@
+const winningPosibilities = [['tl', 'tc', 'tl'], ['ml', 'mc', 'mt']]
